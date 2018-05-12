@@ -1,0 +1,26 @@
+_repo: A-Tale-of-the-Summer-Holidays_30469
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30469-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Mockler, Geraldine
+    gutenberg_agent_id: '8292'
+    url: http://www.gutenberg.org/2009/agents/8292
+description: ''
+gutenberg_issued: '2009-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'England -- Social life and customs -- 19th century -- Juvenile fiction'
+- !lcsh 'Play -- Juvenile fiction'
+title: A Tale of the Summer Holidays
+url: http://www.gutenberg.org/ebooks/30469
